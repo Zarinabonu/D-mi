@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T10:10:45.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="NbSxdk1DpAm4iZe7nAlh" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T10:39:19.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="fBQiAEBgGSC7JGp3OHSo" version="15.6.6" type="github">
   <diagram id="inNNHL4jC_mw0NiZv7Ve" name="Page-1">
     <mxGraphModel dx="2523" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,14 +97,14 @@
             <mxPoint x="580" y="710" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="580" y="840" />
-              <mxPoint x="396" y="840" />
+              <mxPoint x="455" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mBkj3tF8xL0pVeo7LYhA-37" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Tuman insp&lt;br&gt;ro&#39;li vakanmi?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=16;fontColor=default;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="46.25" y="770" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="mBkj3tF8xL0pVeo7LYhA-41" value="&lt;span&gt;Boshqarma inspektor biriktirish&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="mBkj3tF8xL0pVeo7LYhA-41" value="&lt;span&gt;Boshqarma inspektor biriktirish&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#F5F5F5;fontSize=14;fontColor=#333333;strokeColor=#666666;fillColor=#F5F5F5;" parent="1" vertex="1">
           <mxGeometry x="166.25" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mBkj3tF8xL0pVeo7LYhA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;" parent="1" source="mBkj3tF8xL0pVeo7LYhA-37" target="mBkj3tF8xL0pVeo7LYhA-41" edge="1">
@@ -119,7 +119,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mBkj3tF8xL0pVeo7LYhA-42" value="Tumanga biriktirish" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="mBkj3tF8xL0pVeo7LYhA-42" value="Tumanga biriktirish" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#F5F5F5;fontSize=14;fontColor=#333333;strokeColor=#666666;fillColor=#F5F5F5;" parent="1" vertex="1">
           <mxGeometry x="-43.75" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mBkj3tF8xL0pVeo7LYhA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;" parent="1" source="mBkj3tF8xL0pVeo7LYhA-37" target="mBkj3tF8xL0pVeo7LYhA-42" edge="1">
@@ -134,7 +134,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mBkj3tF8xL0pVeo7LYhA-54" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Taaluqligi bo&#39;yicha yuborish&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="mBkj3tF8xL0pVeo7LYhA-54" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Taaluqligi bo&#39;yicha yuborish&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#F5F5F5;fontSize=12;fontColor=#333333;strokeColor=#666666;fillColor=#F5F5F5;" parent="1" vertex="1">
           <mxGeometry x="51.25" y="1060" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mBkj3tF8xL0pVeo7LYhA-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;" parent="1" source="mBkj3tF8xL0pVeo7LYhA-41" target="mBkj3tF8xL0pVeo7LYhA-54" edge="1">
@@ -153,7 +153,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mBkj3tF8xL0pVeo7LYhA-69" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Uzoq muddatli tekshirish&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="mBkj3tF8xL0pVeo7LYhA-69" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Uzoq muddatli tekshirish&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#F5F5F5;fontSize=12;fontColor=#333333;strokeColor=#666666;fillColor=#F5F5F5;" parent="1" vertex="1">
           <mxGeometry x="196.25" y="1060" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mBkj3tF8xL0pVeo7LYhA-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;" parent="1" source="mBkj3tF8xL0pVeo7LYhA-41" target="mBkj3tF8xL0pVeo7LYhA-69" edge="1">
@@ -164,7 +164,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mBkj3tF8xL0pVeo7LYhA-70" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Anonimlik&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="mBkj3tF8xL0pVeo7LYhA-70" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Anonimlik&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#F5F5F5;fontSize=12;fontColor=#333333;strokeColor=#666666;fillColor=#F5F5F5;" parent="1" vertex="1">
           <mxGeometry x="-83.75" y="1060" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mBkj3tF8xL0pVeo7LYhA-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;" parent="1" source="mBkj3tF8xL0pVeo7LYhA-42" target="mBkj3tF8xL0pVeo7LYhA-70" edge="1">
@@ -175,17 +175,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tCPC2FqYTnkMphjOXLfU-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-1" target="tCPC2FqYTnkMphjOXLfU-197">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="606.2499999999995" y="1100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="tCPC2FqYTnkMphjOXLfU-1" value="&lt;font style=&quot;font-size: 14px ; background-color: rgb(213 , 232 , 212)&quot;&gt;Buyruq chiqarish&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=12;strokeColor=#82b366;fillColor=#D5E8D4;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="336.25" y="1060" width="120" height="80" as="geometry" />
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Buyruq chiqarish&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=12;strokeColor=default;fillColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1060" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="mBkj3tF8xL0pVeo7LYhA-41" target="tCPC2FqYTnkMphjOXLfU-1">
           <mxGeometry x="-83.75" y="590" as="geometry">
             <Array as="points">
-              <mxPoint x="226.25" y="1010" />
-              <mxPoint x="396.25" y="1010" />
+              <mxPoint x="226" y="1010" />
+              <mxPoint x="455" y="1010" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -214,34 +216,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-13" value="Tasdiqlashga jo&#39;natish&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1058.75" y="1750" width="120" height="60" as="geometry" />
+          <mxGeometry x="1218.75" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-31">
-          <mxGeometry x="133.75" y="790" as="geometry">
-            <mxPoint x="1133.75" y="2080" as="targetPoint" />
+          <mxGeometry x="293.75" y="910" as="geometry">
+            <mxPoint x="1293.75" y="2200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1198.75" y="2040" />
-              <mxPoint x="1133.75" y="2040" />
+              <mxPoint x="1358.75" y="2160" />
+              <mxPoint x="1293.75" y="2160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-28">
-          <mxGeometry x="133.75" y="790" as="geometry">
-            <mxPoint x="1133.75" y="2080" as="targetPoint" />
+          <mxGeometry x="293.75" y="910" as="geometry">
+            <mxPoint x="1293.75" y="2200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1038.75" y="2040" />
-              <mxPoint x="1133.75" y="2040" />
+              <mxPoint x="1198.75" y="2160" />
+              <mxPoint x="1293.75" y="2160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tCPC2FqYTnkMphjOXLfU-36" value="&lt;font style=&quot;font-size: 14px ; background-color: rgb(213 , 232 , 212)&quot;&gt;O&#39;rganib chiqildi&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=12;strokeColor=default;fillColor=#d5e8d4;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1073.75" y="2190" width="120" height="80" as="geometry" />
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;O&#39;rganib chiqildi&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#D5E8D4;fontSize=12;strokeColor=default;fillColor=#D5E8D4;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1233.75" y="2310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-37" target="tCPC2FqYTnkMphjOXLfU-36">
-          <mxGeometry x="133.75" y="790" as="geometry" />
+          <mxGeometry x="293.75" y="910" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-37" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;Tasdig&#39;ini kutmoqda&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1073.75" y="2080" width="120" height="60" as="geometry" />
+          <mxGeometry x="1233.75" y="2200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-57" value="Jarima&lt;br&gt;qilindimi?" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="943.75" y="1100" width="120" height="110" as="geometry" />
@@ -299,7 +301,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-26" value="" style="group;fontColor=default;strokeColor=none;labelBackgroundColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="963.75" y="1880" width="150" height="120" as="geometry" />
+          <mxGeometry x="1123.75" y="2000" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-27" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png;fontSize=16;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="tCPC2FqYTnkMphjOXLfU-26">
           <mxGeometry x="35" width="80" height="80" as="geometry" />
@@ -308,10 +310,10 @@
           <mxGeometry y="80" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=12;fontColor=default;strokeColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-13" target="tCPC2FqYTnkMphjOXLfU-27">
-          <mxGeometry x="133.75" y="790" as="geometry" />
+          <mxGeometry x="293.75" y="910" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-29" value="" style="group;fontColor=default;strokeColor=none;labelBackgroundColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1123.75" y="1880" width="150" height="120" as="geometry" />
+          <mxGeometry x="1283.75" y="2000" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-30" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png;fontSize=16;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="tCPC2FqYTnkMphjOXLfU-29">
           <mxGeometry x="35" width="80" height="80" as="geometry" />
@@ -320,7 +322,7 @@
           <mxGeometry x="15" y="90" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=12;fontColor=default;strokeColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-13" target="tCPC2FqYTnkMphjOXLfU-30">
-          <mxGeometry x="133.75" y="790" as="geometry" />
+          <mxGeometry x="293.75" y="910" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-77" value="To&#39;ldirilishi kerak&#xa; ma&#39;lumotlar" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1273.75" y="1260" width="150" height="170" as="geometry" />
@@ -336,6 +338,9 @@
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-81" value="Davo arizasi (file)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=default;fontSize=14;fontColor=default;" vertex="1" parent="tCPC2FqYTnkMphjOXLfU-77">
           <mxGeometry y="140" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=16;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-84" target="tCPC2FqYTnkMphjOXLfU-219">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-84" value="Fuqaroga javob xati" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1053.75" y="1500" width="120" height="80" as="geometry" />
@@ -377,16 +382,16 @@
         <mxCell id="tCPC2FqYTnkMphjOXLfU-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Qonun&lt;br&gt;&amp;nbsp;buzilganmi?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1123.75" y="960" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="tCPC2FqYTnkMphjOXLfU-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-184" target="tCPC2FqYTnkMphjOXLfU-13">
-          <mxGeometry x="133.75" y="790" as="geometry">
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=16;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-184" target="tCPC2FqYTnkMphjOXLfU-13">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1118.75" y="1710" />
-              <mxPoint x="1118.75" y="1710" />
+              <mxPoint x="1279" y="1830" />
+              <mxPoint x="1279" y="1830" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tCPC2FqYTnkMphjOXLfU-184" value="Tasdig&#39;ini kutmoqda" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1053.75" y="1630" width="120" height="60" as="geometry" />
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-184" value="Tasdig&#39;ini kutmoqda" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#F5F5F5;fontSize=14;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="1760" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-190" target="tCPC2FqYTnkMphjOXLfU-9">
           <mxGeometry x="10" y="740" as="geometry" />
@@ -401,7 +406,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-113" value="ABKM ko&#39;rib chiqmoqda" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="336.25" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="395" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="mBkj3tF8xL0pVeo7LYhA-8" target="mBkj3tF8xL0pVeo7LYhA-37">
           <mxGeometry relative="1" as="geometry">
@@ -412,10 +417,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=1.229;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-197" target="tCPC2FqYTnkMphjOXLfU-92">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="735" y="1100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="tCPC2FqYTnkMphjOXLfU-197" value="Inspektor ko&#39;rib chiqyapti" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="563.75" y="1070" width="120" height="60" as="geometry" />
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-197" value="Inspektor ko&#39;rib chiqyapti&lt;br&gt;(Buyruq chiqarilgan)" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#F5F5F5;fontSize=14;fontColor=#333333;strokeColor=#666666;fillColor=#F5F5F5;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="1060" width="146.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tCPC2FqYTnkMphjOXLfU-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-91" target="tCPC2FqYTnkMphjOXLfU-190">
           <mxGeometry relative="1" as="geometry">
@@ -424,6 +433,61 @@
               <mxPoint x="820" y="850" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-202" value="&lt;i&gt;Rad qilish &lt;br&gt;yo&#39;q ekan&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1158.75" y="2310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontSize=16;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-219" target="tCPC2FqYTnkMphjOXLfU-220">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="968" y="1680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-218" value="Ha" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="tCPC2FqYTnkMphjOXLfU-217">
+          <mxGeometry x="-0.1034" y="-2" relative="1" as="geometry">
+            <mxPoint x="32" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=16;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-219" target="tCPC2FqYTnkMphjOXLfU-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-222" value="Yo&#39;q" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="tCPC2FqYTnkMphjOXLfU-221">
+          <mxGeometry x="-0.1676" y="2" relative="1" as="geometry">
+            <mxPoint x="-17" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-219" value="Maslaxat &lt;br&gt;so&#39;ralganmi?" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1043.75" y="1630" width="141.25" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=16;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="tCPC2FqYTnkMphjOXLfU-220">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="1790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-220" value="&lt;span style=&quot;&quot;&gt;Maslaxat berildi&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#F5F5F5;fontSize=14;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="913.75" y="1760" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-228" value="&lt;i&gt;ABKM direktori&lt;br&gt;ko&#39;rib chiqayapti&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="520" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-229" value="&lt;i&gt;Insp&lt;br&gt;biriktirish&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="286.25" y="920" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-230" value="&lt;i&gt;Insp ko&#39;rib chiqyapti&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="553.75" y="1150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-231" value="&lt;i&gt;Tasdig&#39;ni &lt;br&gt;kutmoqda&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1353.75" y="1770" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-232" value="&lt;i&gt;Maslaxat &lt;br&gt;berildi&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1770" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-233" value="&lt;i&gt;Tasdig&#39;ni &lt;br&gt;kutmoqda&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1363.75" y="2210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tCPC2FqYTnkMphjOXLfU-234" value="&lt;i&gt;O&#39;rganib&lt;br&gt;chiqildi&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1368.75" y="2330" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
