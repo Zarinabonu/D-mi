@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T12:34:57.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="UarHnWsxf1kBTrKp7-Qd" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T12:37:41.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="rj7DWeIbdmeggPSo5Spl" version="15.8.2" type="github">
   <diagram id="G20b1RQcm4bmVd8uKcJP" name="Page-1">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,6 +144,50 @@
               <mxPoint x="240" y="103" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nHpbdJNwGGXA-VD3ESNF-44" value="" style="image;html=1;image=img/lib/clip_art/people/Worker_Man_128x128.png;fontSize=18;align=center;" vertex="1" parent="1">
+          <mxGeometry x="414" y="900" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHpbdJNwGGXA-VD3ESNF-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="nHpbdJNwGGXA-VD3ESNF-20" target="nHpbdJNwGGXA-VD3ESNF-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="800" />
+              <mxPoint x="454" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHpbdJNwGGXA-VD3ESNF-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="nHpbdJNwGGXA-VD3ESNF-21" target="nHpbdJNwGGXA-VD3ESNF-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="454" y="740" />
+              <mxPoint x="454" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHpbdJNwGGXA-VD3ESNF-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;startArrow=none;" edge="1" parent="1" source="nHpbdJNwGGXA-VD3ESNF-53" target="nHpbdJNwGGXA-VD3ESNF-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="454" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHpbdJNwGGXA-VD3ESNF-53" value="" style="shape=message;html=1;outlineConnect=0;fontSize=18;align=center;" vertex="1" parent="1">
+          <mxGeometry x="444" y="830" width="20" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="nHpbdJNwGGXA-VD3ESNF-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;endArrow=none;" edge="1" parent="1" source="nHpbdJNwGGXA-VD3ESNF-22" target="nHpbdJNwGGXA-VD3ESNF-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="576" y="720" as="sourcePoint" />
+            <mxPoint x="454" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="576" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHpbdJNwGGXA-VD3ESNF-56" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: small ; background-color: rgb(255 , 255 , 255)&quot;&gt;уведомление&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="464" y="822" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nHpbdJNwGGXA-VD3ESNF-57" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: small ; background-color: rgb(255 , 255 , 255)&quot;&gt;участник&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="419" y="980" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
