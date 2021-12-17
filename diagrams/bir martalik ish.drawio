@@ -1,1 +1,178 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T12:47:09.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="15.9.1" etag="QWZLqjk8_25Ez7E_K690" type="github"><diagram id="ENkwJE2lhJ0d-7eyaLD5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-17T10:12:10.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="1xsMihXrHAvsN3OQcQTm" version="15.9.6" type="github">
+  <diagram id="ENkwJE2lhJ0d-7eyaLD5" name="Page-1">
+    <mxGraphModel dx="2844" dy="2777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-1" value="" style="image;html=1;image=img/lib/clip_art/people/Worker_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="470" y="-430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="170" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-2" value="Ustachilik va remont" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-23">
+          <mxGeometry x="130" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-3" value="Tozalash va xo&#39;jalik ishlari" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-23">
+          <mxGeometry y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-4" value="Kuryerlik" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-23">
+          <mxGeometry x="263.5" width="96.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-5" value="Shaxsiy yordamchi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-23">
+          <mxGeometry x="100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-6" value="IT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-23">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-8" value="Foto, video, rasm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-23">
+          <mxGeometry x="264" y="40" width="116" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="280" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-22" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-32">
+          <mxGeometry width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-24" value="Kuryer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-32">
+          <mxGeometry x="10" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-25" value="150 000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-32">
+          <mxGeometry x="230" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-26" value="&lt;font style=&quot;font-size: 16px&quot;&gt;17.12.2021&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-32">
+          <mxGeometry x="10" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-27" value="Address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-32">
+          <mxGeometry x="270" y="50" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-30" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Qo&#39;shimcha ma&#39;lumot&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-32">
+          <mxGeometry x="10" y="80" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-31" value="&lt;font color=&quot;#a1a1a1&quot;&gt;Kommentariya&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-32">
+          <mxGeometry x="240" y="85" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="420" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-34" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-33">
+          <mxGeometry width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-35" value="&amp;nbsp; &amp;nbsp;Sotuvchi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-33">
+          <mxGeometry x="-15" y="10" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-36" value="120 000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-33">
+          <mxGeometry x="230" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-37" value="&lt;font style=&quot;font-size: 16px&quot;&gt;17.12.2021&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-33">
+          <mxGeometry x="10" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-38" value="Address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-33">
+          <mxGeometry x="270" y="50" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-39" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Qo&#39;shimcha ma&#39;lumot&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-33">
+          <mxGeometry x="10" y="80" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-40" value="&lt;font color=&quot;#a1a1a1&quot;&gt;Kommentariya&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-33">
+          <mxGeometry x="240" y="85" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-41" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="560" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-42" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-41">
+          <mxGeometry width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-43" value="&amp;nbsp; &amp;nbsp;Sotuvchi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-41">
+          <mxGeometry x="-15" y="10" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-44" value="120 000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-41">
+          <mxGeometry x="230" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-45" value="&lt;font style=&quot;font-size: 16px&quot;&gt;17.12.2021&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-41">
+          <mxGeometry x="10" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-46" value="Address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-41">
+          <mxGeometry x="270" y="50" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-47" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Qo&#39;shimcha ma&#39;lumot&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-41">
+          <mxGeometry x="10" y="80" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-48" value="&lt;font color=&quot;#a1a1a1&quot;&gt;Kommentariya&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-41">
+          <mxGeometry x="240" y="85" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-51" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font style=&quot;font-size: 48px&quot;&gt;Kuryer&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontColor=#A1A1A1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-52" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 28px&quot;&gt;150 000&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="830" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-77" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="630" y="280" width="660" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry width="660" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-54" value="&lt;font color=&quot;#000000&quot;&gt;Address:&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#A1A1A1;fontStyle=1" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="20" y="10" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-55" value="&lt;font color=&quot;#000000&quot;&gt;Sana:&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#A1A1A1;fontStyle=1" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="20" y="50" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-56" value="&lt;font color=&quot;#000000&quot;&gt;Summa:&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#A1A1A1;fontStyle=1" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="20" y="80" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-57" value="&lt;font color=&quot;#000000&quot;&gt;Aloqa &lt;br&gt;ma&#39;lumoti:&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#A1A1A1;fontStyle=1" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="20" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-58" value="&lt;font color=&quot;#000000&quot;&gt;Shaxsi&lt;br&gt;tasdiqlangan &lt;br&gt;bo&#39;lishi kerak:&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#A1A1A1;fontStyle=1" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="20" y="160" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-59" value="&lt;font color=&quot;#000000&quot;&gt;Toshkent shahar, Olmazor tumani,&lt;br&gt;Obod mahallasi12 uy&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#A1A1A1;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="130" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-61" value="&lt;font color=&quot;#000000&quot;&gt;12.12.2021y - 13.12.2021y&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#A1A1A1;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="130" y="50" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-62" value="&lt;font color=&quot;#000000&quot;&gt;150 000 so&#39;m&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#A1A1A1;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="130" y="80" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-63" value="&lt;font color=&quot;#000000&quot;&gt;+99897 111-11-11&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#A1A1A1;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="130" y="120" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-64" value="&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp;Ha/Yo&#39;q&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#A1A1A1;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="130" y="180" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-68" value="&lt;font color=&quot;#000000&quot;&gt;Toifasi:&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#A1A1A1;fontStyle=1" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="20" y="225" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-69" value="&lt;font color=&quot;#000000&quot;&gt;Kuryerlik&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#A1A1A1;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="130" y="225" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-74" value="&lt;font color=&quot;#000000&quot;&gt;Batafsil:&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#A1A1A1;fontStyle=1" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="20" y="255" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-76" value="&lt;div&gt;Rossiyadagi eng yirik rus ish beruvchilaridan biri - MTS&amp;nbsp;&lt;/div&gt;&lt;div&gt;telekommunikatsiya kompaniyasi savdo ofislari&lt;/div&gt;&lt;div&gt;&lt;span&gt;va to&#39;g&#39;ridan-to&#39;g&#39;ri savdo agentlari mutaxassislari uchun bo&#39;sh ish o&#39;rinlarini to&#39;ldirish&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp;uchun masofaviy ishga yollovchilarni qidirmoqda.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hamkorlik doimiydir!&lt;/div&gt;&lt;div&gt;Ko&#39;p bo&#39;sh ish o&#39;rinlari bor!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Biz taklif etamiz:&lt;/div&gt;&lt;div&gt;- Uydan ishlash&lt;/div&gt;&lt;div&gt;- Sizning kartangizga rasmiy to&#39;lovlar&lt;/div&gt;&lt;div&gt;- sinovsiz qabul qilish&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Shartlar&lt;/div&gt;&lt;div&gt;- Jadval bepul&lt;/div&gt;&lt;div&gt;- Masofaviy ish formati&lt;/div&gt;&lt;div&gt;- Issiq qo&#39;rg&#39;oshin uchun to&#39;lov(vakansiyaga qiziqqan nomzodning aloqasi).&lt;/div&gt;&lt;div&gt;&amp;nbsp;Qo&#39;rg&#39;oshin narxi 400 rubl&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Talablar&lt;/div&gt;&lt;div&gt;- Rossiya Federatsiyasi fuqaroligi&lt;/div&gt;&lt;div&gt;- Oliy / to&#39;liq bo&#39;lmagan oliy ma&#39;lumot&lt;/div&gt;&lt;div&gt;- Ishga qabul qilish bo&#39;yicha ish tajribasi 1 yildan&lt;/div&gt;&lt;div&gt;- O&#39;z kontaktlar ma&#39;lumotlar bazasiga ega bo&#39;lish ortiqcha bo&#39;ladi&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Takliflaringizni qoldiring va biz siz bilan bog&#39;lanamiz!&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="130" y="245" width="530" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-78" value="12.12.2021 y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="551" y="710" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-79" value="256" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="G-kjqkswnfPc7nVmN3WT-77">
+          <mxGeometry x="470" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-80" value="" style="endArrow=classic;html=1;rounded=0;fontSize=48;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="460" as="sourcePoint" />
+            <mxPoint x="590" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-82" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=48;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G-kjqkswnfPc7nVmN3WT-83" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=48;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
